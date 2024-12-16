@@ -37,8 +37,8 @@ body {
     margin-bottom: 30px;
 }
 
-.login-box p {
-    font-size: 14px;
+.login-box h3 {
+    font-size: 16px;
     color: var(--gray);
     margin-bottom: 20px;
 }
